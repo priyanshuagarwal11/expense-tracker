@@ -33,8 +33,6 @@ This app helps users manage their income and expenses while keeping track of the
 - localStorage  
 - Basic CRUD Operations  
 
----
-
 🔮 Future Enhancements
 
 Category-wise expenses
